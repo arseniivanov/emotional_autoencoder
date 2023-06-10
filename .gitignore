@@ -1,0 +1,5 @@
+DEAP_data/*
+SEED_IV_data
+EEG-Emotion-Recognition
+*.pth
+__*
