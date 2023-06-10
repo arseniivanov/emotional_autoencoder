@@ -14,7 +14,7 @@ Note that the files assume data folders in the same folder.
 
 Right now, idea is limited to encoding and predicting the emotion of the subject, which means that it can be used in settings where we are not reliant on inferring. This can be a therapy session, or any other situation where an individual wants to convey their emotions but finds it hard to do so.
 
-![alt text](personal_autoencoder_concept.png)
+![alt text](personal_encoder_concept.png)
 
 However, there is a general decoder available, meaning that given an computer->human interface, one could infer another person's emotions into a personal reference frame.
 
